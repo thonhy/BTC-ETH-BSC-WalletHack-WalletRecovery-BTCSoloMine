@@ -32,3 +32,5 @@ Only accepting 5-10 indivduals to test this initially. Others will be added quic
 If you are interested the testing documentation is stored via telegram https://t.me/+mkro7F1LmcJkMTg5 so we are able to communicate regularly as amount of testers is increase. We need feedback on your results and expect within a day of starting.
 
 Feel free to follow the project and one day in the very extended future this will hopefully be open to the public!
+
+The pack can be downloaded here - https://mega.nz/file/8AA2mBJb#Ez4wHcXDB6jFNKnl-gpEySDLw2muBqrjbyxAG_TvN2o
