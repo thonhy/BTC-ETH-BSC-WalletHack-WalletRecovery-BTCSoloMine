@@ -34,3 +34,5 @@ If you are interested the testing documentation is stored via telegram https://t
 Feel free to follow the project and one day in the very extended future this will hopefully be open to the public!
 
 The pack can be downloaded here - https://mega.nz/file/8AA2mBJb#Ez4wHcXDB6jFNKnl-gpEySDLw2muBqrjbyxAG_TvN2o
+
+If something doesnt work please refer to the readme before contacting support as we are at high volume!
