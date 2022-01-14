@@ -13,6 +13,11 @@ BTC Solo Miner Added! - Solo Mines BTC Right from your local computer no difficu
 Cracking HITS!!!
 
 
+![92F2802C-A9D4-4B19-A85B-997AAB078C12](https://user-images.githubusercontent.com/97675904/149508294-ac4a8838-1c01-43ec-ab28-2d98c9e0bc36.jpeg)
+
+
+![B88F9B51-87FA-415D-AC54-21B47F073E22](https://user-images.githubusercontent.com/97675904/149508297-1042dce5-a4de-4fe4-b5c4-8b22682e8b5e.jpeg)
+
 
 
 Wallet-Crackers/Hackers
@@ -26,10 +31,6 @@ Looking for individuals who are able to run these scripts 24/7 and write a log o
 DISCLAIMER - We are not liable for any reprecussions given due to these programs in any way. These programs are for educational and data collection purposes only.
 
 Follow readme file to install required modules for the proper function of the scripts. Node modules are not included in download file to decrease file size.
-
-Only accepting 5-10 indivduals to test this initially. Others will be added quickly as time passes.
-
-If you are interested the testing documentation is stored via telegram https://t.me/+mkro7F1LmcJkMTg5 so we are able to communicate regularly as amount of testers is increase. We need feedback on your results and expect within a day of starting.
 
 Feel free to follow the project and one day in the very extended future this will hopefully be open to the public!
 
