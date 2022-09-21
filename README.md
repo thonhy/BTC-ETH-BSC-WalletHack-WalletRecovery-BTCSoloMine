@@ -1,5 +1,9 @@
 ****Update*****
 
+NEW Pre Compiled Python BASED Release
+**** If execution fails please try to install packages on your own and also report to our support***
+
+
 Our last testing period had allotted testers fill very quick with program concepts performing better than what we had expected
 
 NEW theories and therioes derived from the previous release have been developed and we are entering the initial testing phase for the current quarter(last quarter of 2022).
