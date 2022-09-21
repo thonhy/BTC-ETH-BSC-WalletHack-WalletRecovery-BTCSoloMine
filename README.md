@@ -48,7 +48,15 @@ systems from having any lag or overload.
 
 
 
+
 Coming Soon
+
+
+Full Gpu Utilization!
+
+Localhost interface!
+
+Much more as we vote on what is the best direction to go in!!
 
 
 
